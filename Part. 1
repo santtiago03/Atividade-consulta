@@ -1,0 +1,4 @@
+USE lojasimples;
+
+SELECT ID_cliente,Nome,Cidade,Telefone FROM clientes
+
